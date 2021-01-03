@@ -1,11 +1,17 @@
 [
     {
-        "Name":"Brown Eggs"
+        "name":"Brown Eggs"
     },
     {
-        "Name":"Golden Egss"
+        "name":"Golden Egss"
     },
     {
-        "Name":"Farm Eggs"
+        "name":"Farm Eggs"
+    },
+    {
+        "name":"Duck Eggs"
+    },
+    {
+        "name":"Double Yolk Eggs"
     }
 ]
